@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.rodape{
+    height: 50px;
+    width: 100%;
+    background-color: black;
+}
+.rodape h3{
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    padding: 10px;
+}
+.principal1{
+    background-color: #6eb6dc;
+    width: 100%;
+    height: 560px;
+}
